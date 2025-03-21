@@ -1,4 +1,4 @@
-# Combination Coherency Language (CC)
+# Combination Coherency Language (CCL)
 
 **A declarative language for modeling coherent interaction logic, possibility spaces, and state transitions in world-building and narrative systems.**
 
@@ -101,7 +101,13 @@ MIT (you may reuse, adapt, and build upon it freely)
 
 ## ✍️ Author
 
-Design, syntax, and structure all created by FusionPoweredSoftware
+Design, syntax, and structure by Fusion Powered Software
 
 Want to build tools or help test? Reach out!
 
+
+### 📄 File Extension
+
+All CC language files use the `.ccl` extension:
+- `example.ccl`
+- `wonderland.ccl`
