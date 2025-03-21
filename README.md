@@ -102,5 +102,6 @@ MIT (you may reuse, adapt, and build upon it freely)
 ## ✍️ Author
 
 Design, syntax, and structure all created by FusionPoweredSoftware
+
 Want to build tools or help test? Reach out!
 
